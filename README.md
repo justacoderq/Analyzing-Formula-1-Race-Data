@@ -144,13 +144,11 @@ Open and execute the Jupyter Notebook or Python scripts for specific analyses.
 Interactive plots and charts will be displayed in your browser.
 
 📈 Visualizations
-Here are some of the key visualizations you will find in this repository:
+Circuits all around the world
+![image](https://github.com/user-attachments/assets/e7443776-3d79-46ab-b8f3-b3134f15f848)
 
-Total Average Points by Country
 
-Pole Position Word Cloud
 
-Wins Per Year for Top Drivers
 
 🔮 Future Work
 Incorporate Machine Learning: Predict race outcomes based on historical data.
