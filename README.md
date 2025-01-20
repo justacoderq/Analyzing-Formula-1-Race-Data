@@ -147,6 +147,13 @@ Interactive plots and charts will be displayed in your browser.
 Circuits all around the world
 ![image](https://github.com/user-attachments/assets/e7443776-3d79-46ab-b8f3-b3134f15f848)
 
+Average position by constructor reference
+![image](https://github.com/user-attachments/assets/9df7d908-6081-42a8-b70c-bed6feadc355)
+
+Average points per country
+![image](https://github.com/user-attachments/assets/baec145e-4f91-43e0-b57c-53ccafc67d59)
+
+
 
 
 
